@@ -1,0 +1,6 @@
+{
+  "name": "Motion AI Studio",
+  "description": "پلتفرم هوشمند طراحی، تولید و تدوین موشنگرافیک و ویدئوهای تبلیغاتی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
